@@ -1,0 +1,4 @@
+statsmodels
+patsy
+scikit-learn
+plotly
